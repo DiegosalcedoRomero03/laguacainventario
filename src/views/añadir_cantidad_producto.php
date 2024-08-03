@@ -7,7 +7,9 @@ $title = "Insertar Cantidad Producto";
 ?>
 
 <form action="">
-    <p></p>
+    <h1>
+        Insertar Cantidad
+    </h1>
 </form>
 
 
